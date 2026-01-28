@@ -269,7 +269,7 @@ MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
 
 ## 👨‍💻 개발자
 
-- **Your Name** - [@YourGitHub](https://github.com/YourGitHub)
+- **Your Name** - [@haneulk1004](https://github.com/haneulk1004)
 
 ---
 
@@ -284,8 +284,8 @@ MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
 
 ## 📞 문의
 
-- Email: your.email@example.com
-- GitHub Issues: [Issues Page](https://github.com/YOUR_USERNAME/universal-game-qa-tool/issues)
+- Email: sonicsilver@naver.com
+- GitHub Issues: [Issues Page](https://github.com/haneulk1004/universal-game-qa-tool/issues)
 
 ---
 
