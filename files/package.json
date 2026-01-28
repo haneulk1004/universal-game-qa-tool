@@ -1,0 +1,59 @@
+{
+  "name": "universal-game-qa-tool",
+  "version": "1.2.0",
+  "description": "AI 기반 게임 리뷰 분석 및 QA 자동화 시스템",
+  "author": "Your Name",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.10.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "game",
+    "qa",
+    "analysis",
+    "ai",
+    "claude",
+    "review",
+    "analytics",
+    "real-time",
+    "dashboard"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/universal-game-qa-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/universal-game-qa-tool/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/universal-game-qa-tool#readme"
+}
